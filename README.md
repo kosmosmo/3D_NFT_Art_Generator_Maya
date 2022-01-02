@@ -15,36 +15,6 @@ Plugin for Maya that generates unique render from a collection of component trai
 
 ## Usage
 Component asset structure.
-
-layers
-
-├─ trait_type1
-
-│  ├─ trait1
-
-│  ├─ trait2
-
-│  ├─ trait3
-
-│  ├─ ...
-
-├─ trait_type2
-
-│  ├─ trait1
-
-│  ├─ trait2
-
-│  ├─ ...
-
-├─ trait_type3
-
-│  ├─ trait1
-
-│  ├─ ...
-
-├─ ...
-
-
 ![](pics/outliner.jpg)
 
 ## Install
