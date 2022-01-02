@@ -16,7 +16,7 @@ Plugin for Maya that generates unique render from a collection of component trai
 ## Usage
 Component asset structure.
 
-layers/
+layers
 ├─ trait_type1
 │  ├─ trait1
 │  ├─ trait2
@@ -35,7 +35,7 @@ layers/
 
 ## Install
 copy everything to C:\Users\user\Documents\maya\2018\scripts
-
+in maya script editor run following.
 ```python
 import gen_main
 import ui
