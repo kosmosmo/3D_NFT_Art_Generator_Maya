@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4ef42a3-5571-48ed-921e-abff754ee752" name="Default Changelist" comment="" />
+    <list default="true" id="f4ef42a3-5571-48ed-921e-abff754ee752" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3D_NFT_Art_Generator_Maya/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_NFT_Art_Generator_Maya/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_NFT_Art_Generator_Maya/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_NFT_Art_Generator_Maya/test_project/test/render/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_NFT_Art_Generator_Maya/test_project/test/render/Thumbs.db" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +109,18 @@
       <option name="presentableId" value="Default" />
       <updated>1641100603926</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1641101003690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641101003690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
