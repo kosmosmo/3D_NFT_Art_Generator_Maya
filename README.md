@@ -2,9 +2,9 @@
 
 Plugin for Maya that generates unique render from a collection of component trait based on weight.
 
-![](pic/4x4.jpg)
+![](pics/4x4.jpg)
 
-![](pic/ui.jpg)
+![](pics/ui.jpg)
 ### Dependencies
 
 - Maya2018 and up
@@ -31,7 +31,7 @@ layers/
 │  ├─ ...
 ├─ ...
 
-![](pic/outliner.jpg)
+![](pics/outliner.jpg)
 
 ## Install
 copy everything to C:\Users\user\Documents\maya\2018\scripts
