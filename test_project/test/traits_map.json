@@ -1,0 +1,402 @@
+{
+    "0": {
+        "body": "victory", 
+        "cap": "bunny", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group6"
+    }, 
+    "1": {
+        "body": "dress", 
+        "cap": "fedora", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group10"
+    }, 
+    "2": {
+        "body": "dress", 
+        "cap": "gary", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face6", 
+        "plane": "group9"
+    }, 
+    "3": {
+        "body": "suite", 
+        "cap": "gary", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group8"
+    }, 
+    "4": {
+        "body": "victory", 
+        "cap": "fedora", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group5"
+    }, 
+    "5": {
+        "body": "victory", 
+        "cap": "horn", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face6", 
+        "plane": "group10"
+    }, 
+    "6": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group10"
+    }, 
+    "7": {
+        "body": "victory", 
+        "cap": "fedora", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group8"
+    }, 
+    "8": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face6", 
+        "plane": "group6"
+    }, 
+    "9": {
+        "body": "body", 
+        "cap": "horn", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group5"
+    }, 
+    "10": {
+        "body": "suite", 
+        "cap": "astronaut", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group5"
+    }, 
+    "11": {
+        "body": "dress", 
+        "cap": "astronaut", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group10"
+    }, 
+    "12": {
+        "body": "victory", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group5"
+    }, 
+    "13": {
+        "body": "dress", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group5"
+    }, 
+    "14": {
+        "body": "body", 
+        "cap": "astronaut", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group6"
+    }, 
+    "15": {
+        "body": "dress", 
+        "cap": "horn", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group7"
+    }, 
+    "16": {
+        "body": "suite", 
+        "cap": "gary", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group5"
+    }, 
+    "17": {
+        "body": "dress", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group9"
+    }, 
+    "18": {
+        "body": "victory", 
+        "cap": "astronaut", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group6"
+    }, 
+    "19": {
+        "body": "victory", 
+        "cap": "gary", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group7"
+    }, 
+    "20": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group9"
+    }, 
+    "21": {
+        "body": "dress", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group8"
+    }, 
+    "22": {
+        "body": "body", 
+        "cap": "gary", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group8"
+    }, 
+    "23": {
+        "body": "suite", 
+        "cap": "astronaut", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group6"
+    }, 
+    "24": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group8"
+    }, 
+    "25": {
+        "body": "dress", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group5"
+    }, 
+    "26": {
+        "body": "body", 
+        "cap": "gary", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group8"
+    }, 
+    "27": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group5"
+    }, 
+    "28": {
+        "body": "dress", 
+        "cap": "gary", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group8"
+    }, 
+    "29": {
+        "body": "suite", 
+        "cap": "gary", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group8"
+    }, 
+    "30": {
+        "body": "victory", 
+        "cap": "horn", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group6"
+    }, 
+    "31": {
+        "body": "suite", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group5"
+    }, 
+    "32": {
+        "body": "body", 
+        "cap": "bunny", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group8"
+    }, 
+    "33": {
+        "body": "sandy", 
+        "cap": "fedora", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group5"
+    }, 
+    "34": {
+        "body": "sandy", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face6", 
+        "plane": "group9"
+    }, 
+    "35": {
+        "body": "suite", 
+        "cap": "astronaut", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group5"
+    }, 
+    "36": {
+        "body": "body", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group9"
+    }, 
+    "37": {
+        "body": "sandy", 
+        "cap": "horn", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group10"
+    }, 
+    "38": {
+        "body": "dress", 
+        "cap": "astronaut", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face5", 
+        "plane": "group7"
+    }, 
+    "39": {
+        "body": "sandy", 
+        "cap": "horn", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group6"
+    }, 
+    "40": {
+        "body": "dress", 
+        "cap": "fedora", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group9"
+    }, 
+    "41": {
+        "body": "body", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group6"
+    }, 
+    "42": {
+        "body": "victory", 
+        "cap": "astronaut", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group7"
+    }, 
+    "43": {
+        "body": "dress", 
+        "cap": "fedora", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group10"
+    }, 
+    "44": {
+        "body": "dress", 
+        "cap": "gary", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face2", 
+        "plane": "group7"
+    }, 
+    "45": {
+        "body": "victory", 
+        "cap": "fedora", 
+        "feet": "high", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group5"
+    }, 
+    "46": {
+        "body": "sandy", 
+        "cap": "bunny", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group5"
+    }, 
+    "47": {
+        "body": "suite", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face1", 
+        "plane": "group6"
+    }, 
+    "48": {
+        "body": "dress", 
+        "cap": "bunny", 
+        "feet": "sandy", 
+        "hand": "group11", 
+        "head": "face4", 
+        "plane": "group6"
+    }, 
+    "49": {
+        "body": "body", 
+        "cap": "horn", 
+        "feet": "shoe", 
+        "hand": "group11", 
+        "head": "face3", 
+        "plane": "group5"
+    }
+}

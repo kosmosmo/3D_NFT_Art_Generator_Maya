@@ -1,0 +1,9 @@
+{
+    "batch_name": "gen_rend", 
+    "dealineurl": "http://127.0.0.1:8081/", 
+    "log": "\n01/02-00:14:05: running.", 
+    "maya_version": "2018", 
+    "pool": "arnold", 
+    "priority": "90", 
+    "total_art": 50
+}

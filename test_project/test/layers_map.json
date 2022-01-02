@@ -1,0 +1,122 @@
+{
+    "body": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "body": {
+                "trait_weight": 1.0
+            }, 
+            "dress": {
+                "trait_weight": 1.0
+            }, 
+            "sandy": {
+                "trait_weight": 1.0
+            }, 
+            "suite": {
+                "trait_weight": 1.0
+            }, 
+            "victory": {
+                "trait_weight": 1.0
+            }
+        }
+    }, 
+    "cap": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "astronaut": {
+                "trait_weight": 1.0
+            }, 
+            "bunny": {
+                "trait_weight": 1.0
+            }, 
+            "fedora": {
+                "trait_weight": 1.0
+            }, 
+            "gary": {
+                "trait_weight": 1.0
+            }, 
+            "horn": {
+                "trait_weight": 1.0
+            }
+        }
+    }, 
+    "feet": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "high": {
+                "trait_weight": 1.0
+            }, 
+            "sandy": {
+                "trait_weight": 1.0
+            }, 
+            "shoe": {
+                "trait_weight": 1.0
+            }
+        }
+    }, 
+    "hand": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "group11": {
+                "trait_weight": 1.0
+            }
+        }
+    }, 
+    "head": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "face1": {
+                "trait_weight": 1.0
+            }, 
+            "face2": {
+                "trait_weight": 1.0
+            }, 
+            "face3": {
+                "trait_weight": 1.0
+            }, 
+            "face4": {
+                "trait_weight": 1.0
+            }, 
+            "face5": {
+                "trait_weight": 1.0
+            }, 
+            "face6": {
+                "trait_weight": 1.0
+            }
+        }
+    }, 
+    "plane": {
+        "attributes": {
+            "00_no_trait": {
+                "trait_weight": 0
+            }, 
+            "group10": {
+                "trait_weight": 1.0
+            }, 
+            "group5": {
+                "trait_weight": 1.0
+            }, 
+            "group6": {
+                "trait_weight": 1.0
+            }, 
+            "group7": {
+                "trait_weight": 1.0
+            }, 
+            "group8": {
+                "trait_weight": 1.0
+            }, 
+            "group9": {
+                "trait_weight": 1.0
+            }
+        }
+    }
+}
