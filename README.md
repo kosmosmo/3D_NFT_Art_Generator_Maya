@@ -1,4 +1,4 @@
-# NFT Art Generator
+# 3D NFT Art Generator with Maya
 
 Plugin for Maya that generates unique render from a collection of component trait based on weight.
 
@@ -15,10 +15,12 @@ Plugin for Maya that generates unique render from a collection of component trai
 
 ## Usage
 Component asset structure.
+
 ![](pics/outliner.jpg)
 
 ## Install
-copy everything to C:\Users\user\Documents\maya\2018\scripts
+copy everything to C:\Users\user\Documents\maya\2018\scripts,
+
 in maya script editor run following.
 ```python
 import gen_main
