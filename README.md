@@ -26,7 +26,7 @@ ui.runMayaTemplateUi()
 ## Usage
 - step1: set generate project folder\
 As default, the generate project will set to locate in your maya project folder.\
-By clicking the set button, it will create a scene folder and render folder inside of generate project folder\
+By clicking the set button, it will create a scene folder and render folder inside of generate project folder
 
 - step2: create layer map\
 layer map is the map that store all your traits data and the weights.\
@@ -35,7 +35,7 @@ Component assets structure in Outliner for layer map.\
 
 - step3: edit your weight in layer map\
 use step2 notepad for weight editing.\
-example:\
+example:
 ```python
 "cap": {
         "attributes": {
@@ -61,11 +61,11 @@ example:\
     }
 ```
 each trait weight is 1, total are 5, so each one has 20% chance.\
-and 00_no_trait is 0, so it has 0% chance.\
+and 00_no_trait is 0, so it has 0% chance.
 
 - step4: generate traits data\
 generating a list of trait data base on layer map.\
-example:\
+example:
 ```python
     "0": {
         "body": "victory",
@@ -84,12 +84,12 @@ example:\
         "plane": "group10"
     },
 ```
-this map will be use for to set up the key frames for final render.\
+this map will be use for to set up the key frames for final render.
 
 - step5: generate scene file\
 using trait data to set up the key frames for final render.\
-everything that was grey out is for animation render. don't have implement yet.\
+everything that was grey out is for animation render. don't have implement yet.
 
 - step6: render\
 default using farm for rendering\
-for local render please use batch render.\
+for local render please use batch render.
